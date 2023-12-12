@@ -38,3 +38,6 @@ c. RoleId- id of that role
 d. Gender- male/female
 e. DateOfBirth- birth day of the person
 f. Address- address of the person
+
+I have performed all the usefull query on the database that is already attached to this depository.
+Thank you for reading
